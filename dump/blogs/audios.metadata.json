@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"blogs.audios"}],"uuid":"486eca4c77664b099cf2b16e4eddea8e"}
